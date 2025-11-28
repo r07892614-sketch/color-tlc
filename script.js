@@ -22,5 +22,6 @@ setInterval(() => {
 
 // Redirect to Telegram
 joinBtn.addEventListener("click", () => {
-  window.open("https://t.me/+0Zwh9H-9YahjMDQ1", "_blank");
+  window.open("https://t.me/+AirZAReq26EzZWE1", "_blank");
 });
+
